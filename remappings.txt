@@ -1,0 +1,4 @@
+@aave-protocol/contracts/=lib/aave-protocol/contracts/
+
+openzeppelin-solidity/contracts/=lib/openzeppelin-contracts/contracts/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
